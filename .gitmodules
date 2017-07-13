@@ -1,0 +1,12 @@
+[submodule "slides"]
+	path = slides
+	url = https://github.com/elthariel/simruby-slides.git
+[submodule "ruby"]
+	path = ruby
+	url = https://github.com/elthariel/simruby-ruby.git
+[submodule "rails"]
+	path = rails
+	url = https://github.com/elthariel/simruby-rails.git
+[submodule "app"]
+	path = app
+	url = https://github.com/elthariel/simruby-app.git
